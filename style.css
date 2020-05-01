@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(178, 137, 216);
+}
+
+header {
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.561);
+    text-align: center;
+}
+
+section {
+    width: 1200px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.37);
+    color: rgb(126, 86, 163);
+}
