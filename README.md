@@ -1,5 +1,5 @@
-# Mãe
- Site criado em homenagem ao dia das mães.
+# Site Mãe
+ Site criado em homenagem a minha mãe em comemoração ao dia das mães.
 
 ## Objetivos
  - [X] Criar a página inicial.
