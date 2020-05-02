@@ -2,8 +2,8 @@
  Site criado em homenagem ao dia das mães.
 
 ## Objetivos
- -[ ] Criar a página inicial.
- -[ ] Adicionar vídeo.
+ -[X] Criar a página inicial.
+ -[X] Adicionar vídeo.
  -[ ] Adicionar fotos.
 
 ## Sobre mim
