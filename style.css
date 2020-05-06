@@ -18,3 +18,83 @@ section {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.37);
     color: rgb(126, 86, 163);
 }
+
+ul#album-fotos li:hover {
+    -webkit-transform: scale(1.5);
+}
+ul#album-fotos {
+    width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+}
+
+ul#album-fotos li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid #ffffff;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
+}
+
+ul#album-fotos li#foto01 {
+    background: url(mídia/20170517_144452.jpg) no-repeat;
+    background-position: center;
+}
+
+ul#album-fotos li#foto01:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#foto02 {
+    background: url(mídia/20170616_114325.jpg);
+    background-position: center;
+}
+
+ul#album-fotos li#foto02:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#foto03 {
+    background: url(mídia/34065403_2067903036811438_2930603408949772288_o.jpg);
+    background-position: center;
+}
+
+ul#album-fotos li#foto03:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#foto04 {
+    background: url(mídia/92643261_3772105716165421_6364510967048437760_o.jpg);
+    background-position: center;
+}
+
+ul#album-fotos li#foto04:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#foto05 {
+    background: red;
+}
+
+ul#album-fotos li#foto05:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#foto06 {
+    background: url(mídia/IMG_5748.JPG);
+    background-position: center;
+}
+
+ul#album-fotos li#foto06:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
